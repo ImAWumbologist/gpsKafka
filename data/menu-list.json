@@ -1,0 +1,33 @@
+{
+  "menuitems":[
+    {
+      "itemLevel":0,
+      "itemName": "Roles",
+      "itemDesc": "Short Notes for Roles",
+      "itemUrl": "/images/image.svg",
+      "activeStatus": false
+    },
+    {
+      "itemLevel":0,
+      "itemName": "Modules",
+      "itemDesc": "Short Notes for Modules",
+      "itemUrl": "/images/image.svg",
+      "activeStatus": false
+    },
+    {
+      "itemLevel":0,
+      "itemName": "Features",
+      "itemDesc": "Short Notes for Features",
+      "itemUrl": "/images/image.svg",
+      "activeStatus": true
+    },
+    {
+      "itemLevel":0,
+      "itemName": "Profiles",
+      "itemDesc": "Short Notes for Profiles",
+      "itemUrl": "/images/image.svg",
+      "activeStatus": true
+    }
+  ]
+
+}

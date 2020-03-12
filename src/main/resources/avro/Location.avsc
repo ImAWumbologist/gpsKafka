@@ -1,0 +1,11 @@
+{
+    "type": "record",
+    "namespace": "com.kevin.gps.kafka",
+    "name": "Location",
+    "fields": [
+        {"name": "districtID", "type": "string"},
+        {"name": "vehicleID", "type": "string"},
+        {"name": "lat", "type": "double"},
+        {"name": "lng", "type": "double"}
+    ]
+}
