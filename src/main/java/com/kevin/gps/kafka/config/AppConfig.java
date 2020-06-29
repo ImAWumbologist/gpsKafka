@@ -43,6 +43,6 @@ public class AppConfig {
 
     // SQL
     public static final String USERNAME = "root";
-    public static final String PASSWORD = "57LPclassic";
+    public static final String PASSWORD = "password123";
     public static final String CONNECTION = "jdbc:mysql://localhost/javaTest";
 }
